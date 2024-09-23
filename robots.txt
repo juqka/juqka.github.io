@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://juqka.github.io/vdL/sitemap.vdL.gz
